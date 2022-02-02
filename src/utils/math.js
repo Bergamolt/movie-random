@@ -1,0 +1,1 @@
+export const randomNumber = maxNum => Math.floor(Math.random() * maxNum + 1)
